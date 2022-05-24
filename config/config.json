@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa1C916bFaC8Edf5F68837c2205DdF9727A309C22",
+  "SCAN_LINK": "https://etherscan.io/address/0xa1C916bFaC8Edf5F68837c2205DdF9727A309C22",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Goblin Flower",
+  "SYMBOL": "GBF",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io",
+  "SHOW_BACKGROUND": true
+}
